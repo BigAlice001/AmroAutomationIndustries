@@ -378,6 +378,9 @@ footer .copyright{
 }
 
 
+/* media query */
+
+
 #page-header{
   background-image: url('img/banner/b1.png');
   width: 100%;
@@ -588,7 +591,8 @@ li {
   }
   #prodetails .single-pro-image img{
     width: 100%;
-    margin-right: 0px;
+    margin-right: 0px; 
+    margin-top: 0px;
   }
 
   #prodetails .single-pro-details{
@@ -653,7 +657,6 @@ li {
   #prodetails .single-pro-image img{
     width: 100%;
     margin-right: 0px; 
-    margin-top: 0px;
   }
 
   #prodetails .single-pro-details{
